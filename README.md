@@ -57,5 +57,5 @@
 1. 本项目的开发目的是研究 ZXIC 路由的固件格式，并希望为爱好者学习提供便利。
 2. 目前仅确认支持ZX7520v3t芯片平台的固件，其他固件格式可能存在差异，请自行研究。
 3. ufiStudio系列软件(含 OpenZxicEditor)现已完全由MiFi~Lab独立维护。即日起不再通过ufitech或uficlub发布。
-4. ZXIC-RomKit的老旧闭源版本后续将移交分支给 企鹅君Punguin@ punguin.cn维护。
+4. ZXIC-RomKit的老旧闭源版本后续将移交分支给 企鹅君Punguin@punguin.cn 维护。
 5. 欢迎各位用户和开发者提出建议，协助完善本项目。
