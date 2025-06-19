@@ -35,7 +35,8 @@
 
 > [!NOTE]
 > OpenZxicEditor-For-Windows依赖 ZXIC-RomKit ，但它并非完全开源的，因此属于 restricted 组件。<br>
-> OpenZxicEditor-For-Windows已取得部分权利并默认附带在releases中。如果您反感此行为，请自行将其移除。
+> OpenZxicEditor-For-Windows已取得部分权利并默认附带在releases中。如果您反感此行为，请自行将其移除。<br>
+> 由于MinGW编译lua5.4.6的原因，releases中还附带"libgcc_s_dw2-1.dll"，运行离不开这个文件。
 
 
 ## 注意事项
